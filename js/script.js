@@ -1,1 +1,3 @@
-var n = 1
+function multiplicar() {
+    console.log(2*2)
+}
